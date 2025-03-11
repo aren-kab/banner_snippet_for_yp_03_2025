@@ -23,7 +23,7 @@
   <polygon points="850,320 900,280 950,320" fill="#F7A81B" opacity="0.3"/>
   
   <!-- Logo placement -->
-  <image href="https://github.com/aren-kab/banner_snippet_for_yp_03_2025/blob/master/AGBU%20YP%20-%20Greater%20New%20York%20Area%20-%20RGB.png" x="50" y="50" width="300" height="300" preserveAspectRatio="xMidYMid meet"/>
+  <image href="AGBU YP - Greater New York Area - RGB.jpg" x="50" y="50" width="300" height="300" preserveAspectRatio="xMidYMid meet"/>
   
   <!-- Main Text: Upcoming Events! -->
   <text x="420" y="170" font-family="Arial, sans-serif" font-size="70" font-weight="bold" fill="#ffffff">UPCOMING EVENTS!</text>
